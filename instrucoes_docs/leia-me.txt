@@ -1,0 +1,8 @@
+
+Usuário de Acesso Administrador: admin
+Senha: 123456
+
+=============================================================
+
+Usuário de Acesso Funcionário: victor
+Senha: 123456
